@@ -4,14 +4,13 @@ import PlayButton from './PlayButton';
 import data from "@/data/data.json";
 
 import useInfoModal from '@/hooks/useInfoModal';
-import useBillboard from '@/hooks/useBillboard';
 
 const Billboard = () => {
 
-    // const { data } = useBillboard();
     const movie = data.movies.find( (movie) => movie.id);
 
     const { openModal } = useInfoModal();
+
     const handleOpenModal = useCallback(() => {
       openModal(movie?.id as string)
     }, [openModal, movie?.id]);
@@ -35,7 +34,7 @@ const Billboard = () => {
             {movie?.description}
           </p>
   
-          <div className="flex flex-row items-center mt-3 gap-3">
+          <div className="flex flex-row items-center mt-3 gap-3 ">
             <PlayButton movieId={movie?.id || ''} />
             
             <button 

@@ -11,7 +11,7 @@ const AccountMenu: React.FC<AccountMenuProps> = ({ visible }) => {
   }
 
   return (
-    <div className="bg-black w-56 absolute top-14 right-0 py-5 flex-col flex rounded-lg">
+    <div className="bg-black bg-opacity-30 w-56 absolute top-14 right-0 py-5 flex-col flex rounded-lg">
       <div className="flex flex-col gap-3">
         <div className="px-3 group/item flex flex-row gap-3 items-center w-full">
           <img className="w-8 rounded-md" src="/images/sanji.jpeg" alt="user" />
@@ -19,9 +19,9 @@ const AccountMenu: React.FC<AccountMenuProps> = ({ visible }) => {
         </div>
       </div>
       
-      <hr className="bg-gray-600 border-0 h-px my-4" />
+      <hr className="bg-black bg-opacity-30 border-0 h-px my-4" />
 
-      <div className="px-3 text-center text-white text-sm hover:underline">
+      <div className="text-center text-white text-sm hover:underline">
         Sign out
       </div>
     </div>
