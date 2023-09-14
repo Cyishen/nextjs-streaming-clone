@@ -2,6 +2,7 @@
 
 <img width="509" alt="Group 33546" src="https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/8e559f86-cc0a-4785-af9d-93ab6ec7dbd6">
 
+![Group 33546](https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/2b761519-ede8-4371-b8ec-a34214218589)
 
 https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/f7d3c0be-ee80-44c2-b8bf-f95bde5f93e0
 
