@@ -5,11 +5,9 @@
 https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/f7d3c0be-ee80-44c2-b8bf-f95bde5f93e0
 
 
-## Getting Started
-
-First, run the development server:
 
 ### Run the app
+First, run the development server:
 ```
 npm run dev
 ```
