@@ -1,4 +1,4 @@
-# Building a famous streaming Clone with React, Next.js, TailwindCSS
+# Building a famous streaming Clone with React, Next JS, TailwindCSS
 
 https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/f7d3c0be-ee80-44c2-b8bf-f95bde5f93e0
 
