@@ -1,0 +1,67 @@
+
+
+{
+    "movies": [
+      {
+        "id": "1",
+        "title": "ONE PIECE",
+        "season": "Season 1",
+        "description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.",
+        "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+        "videoUrl": "/images/video/ONE PIECE.mp4",
+        "duration": "2 minutes",
+        "genre": "Action"
+      },
+      {
+        "id": "2",
+        "title": "The Glory",
+        "season": "Season 2",
+        "description": "After a childhood marked by pain and violence, a woman puts a carefully planned revenge scheme in motion.",
+        "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/laXuk9lQIpM0ropx2mkhP6ry0TG.jpg",
+        "videoUrl": "/images/video/The-glory.mp4",
+        "duration": "2 minutes",
+        "genre": "Drama"
+      },
+      {
+        "id": "3",
+        "title": "Enola Holmes",
+        "season": "Season 2",
+        "description": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.",
+        "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+        "videoUrl": "/images/video/Enola-Holmes-2.mp4",
+        "duration": "2 minutes",
+        "genre": "Comedy"
+      },
+      {
+        "id": "4",
+        "title": "Berlin",
+        "season": "Season 1",
+        "description": "During Berlin’s golden age, love and money are what drives him in life. His next big heist? A jackpot of jewels worth 44 million.",
+        "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7CXBHbGenMqGo9wnHsK8sBLCJb.jpg",
+        "videoUrl": "/images/video/Berlin.mp4",
+        "duration": "1 minutes",
+        "genre": "Drama"
+      },
+      {
+        "id": "5",
+        "title": "Wednesday",
+        "season": "Season 2",
+        "description": "Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic power.",
+        "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "videoUrl": "/images/video/Wednesday2.mp4",
+        "duration": "1 minutes",
+        "genre": "Comedy"
+      },
+      {
+        "id": "6",
+        "title": "Squid Game",
+        "season": "Season 2",
+        "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+        "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+        "videoUrl": "/images/video/Squid Game Season 2.mp4",
+        "duration": "1 minutes",
+        "genre": "Drama"
+      }
+      
+    ]
+}
