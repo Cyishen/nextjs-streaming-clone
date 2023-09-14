@@ -1,6 +1,7 @@
 # Building a famous streaming Clone with React, Next JS, TailwindCSS
 
 <img width="509" alt="Group 33546" src="https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/8e559f86-cc0a-4785-af9d-93ab6ec7dbd6">
+<img width="509" alt="Group 33546" src="https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/d3f791f0-627b-4a02-8251-c9aac8746799">
 
 
 https://github.com/Cyishen/nextjs-streaming-clone/assets/52564123/f7d3c0be-ee80-44c2-b8bf-f95bde5f93e0
