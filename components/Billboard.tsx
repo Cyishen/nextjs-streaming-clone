@@ -20,6 +20,7 @@ const Billboard = () => {
         <div className="relative h-[80vw] sm:h-[56.25vw]">
         <video 
             src={movie?.videoUrl}
+            playsInline
             autoPlay
             muted 
             loop 
